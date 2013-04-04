@@ -7,7 +7,7 @@ good repo description
 ![App](https://raw.github.com/alaframboise/coolmap/master/app.png)
 
 ## Features
-* feature 1
+* feature 1.
 * feature 2
 
 ## Instructions
