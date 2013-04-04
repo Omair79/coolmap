@@ -2,12 +2,12 @@
 
 good repo description
 
-[View it live](http://alaframboise.github.com/coolmap/index.html)
+[View it live](https://github.com/Omair79/coolmap/blob/master/index.html)
 
-![App](https://raw.github.com/alaframboise/coolmap/master/app.png)
+![App](https://github.com/Omair79/coolmap/blob/master/app.png)
 
 ## Features
-* feature 1.
+* feature 1
 * feature 2
 
 ## Instructions
